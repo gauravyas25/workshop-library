@@ -5,7 +5,7 @@ import './index.css'
 function App() {
     return (
         <article>
-            <h1>Recipe Manager</h1>
+            <h1>Gaurav Vyas</h1>
             <RecipeTitle />
         </article>
     )
